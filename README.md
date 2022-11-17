@@ -1,7 +1,8 @@
 # Explorando Padrões de Projetos na Prática com Java 
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". 
-Especificamente, foi explorado os seguintes padrões de projeto praticando com Java puro:
+Repositório com solução que explora o conceito de Padrões de Projeto na prática conforme DIO Lab "Explorando Padrões de Projetos na Prática com Java". 
+
+Neste caso, foram praticados os seguintes padrões de projeto utilizando Java puro:
 
 - Singleton
 
