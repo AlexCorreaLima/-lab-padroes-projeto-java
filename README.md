@@ -5,5 +5,7 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 Especificamente, foi explorado os seguintes padrões de projeto praticando com Java puro:
 
 Singleton
+
 Strategy
+
 Facade
