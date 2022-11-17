@@ -7,4 +7,4 @@ Especificamente, foi explorado os seguintes padrões de projeto praticando com J
 
 - Strategy
 
-- Facade
+- Facade 
